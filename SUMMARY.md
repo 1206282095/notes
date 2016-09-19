@@ -7,4 +7,5 @@
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
 * [装双系统](zhuang_shuang_xi_tong.md)
 * [设置时间](she_zhi_shi_jian.md)
+* 视频学习
 
